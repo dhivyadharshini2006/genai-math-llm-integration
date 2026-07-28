@@ -65,6 +65,12 @@ json.loads(response_message["function_call"]["arguments"])
 
 
 
+
+
+
+
+
+
 <img width="355" height="191" alt="image" src="https://github.com/user-attachments/assets/f19133c0-51b6-4365-89ba-6605dc155509" />
 
 
@@ -73,7 +79,8 @@ json.loads(response_message["function_call"]["arguments"])
 
 
 
-<img width="363" height="77" alt="image" src="https://github.com/user-attachments/assets/23f10b38-9f06-47f6-ae4e-f02a803e6669" />
+
+
 
 
 
